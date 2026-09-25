@@ -9,7 +9,7 @@ import { AuthService } from '../core/auth.service';
   imports: [RouterLink],
   template: `
     <section class="hero">
-      <h1>Pedidos360</h1>
+      <h1>TecnoMarket</h1>
       <p>
         Gestión de pedidos y productos sobre microservicios en AWS, protegida con Amazon Cognito
         (OAuth 2.0 / OpenID Connect con Authorization Code + PKCE).
