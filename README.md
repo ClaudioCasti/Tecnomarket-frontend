@@ -1,6 +1,6 @@
 # Tecnomarket – Frontend
 
-Aplicación Angular 22 (standalone, zoneless, signals) que consume los microservicios de Pedidos360
+Aplicación Angular 22 (standalone, zoneless, signals) que consume los microservicios de Tecnomarket
 a través de **Amazon API Gateway**, autenticando con **Amazon Cognito** mediante OAuth 2.0 / OpenID Connect
 (**Authorization Code + PKCE**, con `state` y `nonce`) usando AWS Amplify Auth.
 
